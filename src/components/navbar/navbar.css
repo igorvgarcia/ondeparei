@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #614e5a;
+
+}
+
+.nav-item a{
+    color: #fff;
+
+
+}
+
+.nav-item a:hover{
+    color: #f21667;
+    
+
+}
