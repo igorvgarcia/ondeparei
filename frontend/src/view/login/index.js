@@ -6,8 +6,6 @@ import Navbar from '../../components/navbar';
 
 import { Link, useHistory } from 'react-router-dom';
 
-
-
 export default function Login(){
     const[email, setEmail] = useState();
     const[senha, setSenha] = useState();
